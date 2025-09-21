@@ -1,0 +1,1 @@
+{"default":{"train":{"meta":"game_chat_train.jsonl","file":""},"test":{"meta":"","file":""},"validation":{"meta":"game_chat_validation.jsonl","file":""}},"subset":{"train":{"meta":"game_chat_train_100.jsonl","file":""},"test":{"meta":"","file":""},"validation":{"meta":"game_chat_validation_100.jsonl","file":""}}}
